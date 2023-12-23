@@ -87,11 +87,11 @@ PLAYLIST_IMG_URL = "https://telegra.ph/file/b22a08944fd0afd2ba978.jpg"
 
 GLOBAL_IMG_URL = "https://telegra.ph/file/9e4b6adb78463f7b0ede6.jpg"
 
-STATS_IMG_URL = "https://te.legra.ph/file/c9aeb9e8a1690c2838915.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/78a79dff2692bbf84d9cb.jpg"
 
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/68f8d3a1f975d2da8fbe8.jpg"
 
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/68f8d3a1f975d2da8fbe8.jpg"
 
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 
